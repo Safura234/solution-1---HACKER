@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\bin\Debug\net5.0\multiple.exe
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\bin\Debug\net5.0\multiple.deps.json
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\bin\Debug\net5.0\multiple.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\bin\Debug\net5.0\multiple.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\bin\Debug\net5.0\multiple.dll
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\bin\Debug\net5.0\multiple.pdb
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.dll
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\refint\multiple.dll
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.pdb
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\multiple.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\Numbers\multiple\multiple\obj\Debug\net5.0\ref\multiple.dll
